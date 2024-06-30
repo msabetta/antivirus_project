@@ -1,0 +1,47 @@
+# ID: Un identificatore unico per il virus
+# Name: Il nome del virus
+# Description: Una breve descrizione del virus
+# DetectionMethod: Il metodo utilizzato per rilevare il virus
+# RecommendedAction: L'azione consigliata per affrontare il virus
+
+[virus_definition]
+ID: 001
+Name: Trojan.Win32.Generic
+Description: Un trojan generico che può rubare dati o causare danni al sistema.
+DetectionMethod: Signature-based detection
+RecommendedAction: Quarantine and remove
+
+[virus_definition]
+ID: 002
+Name: Worm.Win32.Autorun
+Description: Un worm che si diffonde attraverso dispositivi rimovibili e reti locali.
+DetectionMethod: Heuristic analysis
+RecommendedAction: Quarantine and remove, disable autorun
+
+[virus_definition]
+ID: 003
+Name: Adware.Win32.Toolbar
+Description: Un adware che installa barre degli strumenti indesiderate nel browser.
+DetectionMethod: Behavior analysis
+RecommendedAction: Quarantine and remove
+
+[virus_definition]
+ID: 004
+Name: Ransomware.Win32.Cryptolocker
+Description: Un ransomware che cripta i file dell'utente e richiede un riscatto per decriptarli.
+DetectionMethod: Signature-based detection
+RecommendedAction: Quarantine, do not pay the ransom, restore from backup
+
+[virus_definition]
+ID: 005
+Name: Spyware.Win32.Keylogger
+Description: Uno spyware che registra le sequenze di tasti dell'utente per rubare informazioni sensibili.
+DetectionMethod: Behavior analysis
+RecommendedAction: Quarantine and remove, change passwords
+
+[virus_definition]
+ID: 006
+Name: Rootkit.Win32.Hidden
+Description: Un rootkit che nasconde la sua presenza e consente l'accesso remoto non autorizzato.
+DetectionMethod: Rootkit scanner
+RecommendedAction: Quarantine and remove, perform a deep system scan

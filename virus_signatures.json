@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "001",
+        "Name": "Trojan.Win32.Generic",
+        "Signature": "5D 8F 20 70 2E 53 6A 91"
+    },
+    {
+        "ID": "002",
+        "Name": "Worm.Win32.Autorun",
+        "Signature": "8A 20 6B 2D 71 35 88 D3"
+    },
+    {
+        "ID": "003",
+        "Name": "Adware.Win32.Toolbar",
+        "Signature": "7C 11 6D 44 33 77 5B 1E"
+    },
+    {
+        "ID": "004",
+        "Name": "Ransomware.Win32.Cryptolocker",
+        "Signature": "4F 2B 7A 21 5D 99 6C 48"
+    },
+    {
+        "ID": "005",
+        "Name": "Spyware.Win32.Keylogger",
+        "Signature": "3E 5D 9F 14 2A 76 91 30"
+    },
+    {
+        "ID": "006",
+        "Name": "Rootkit.Win32.Hidden",
+        "Signature": "6A 3C 21 1B 78 4D 55 9F"
+    }
+]
