@@ -1,6 +1,6 @@
 # <b>Antivirus Project</b>
 
-## Execute these commands below
+Execute these commands below:
 
 <div align="justify" style="font-family:'Courier New'">source env/bin/activate</div>
 
