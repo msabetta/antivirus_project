@@ -6,4 +6,4 @@
 
 <div align="justify" style="font-family:'Courier New'">python antivirus.py</div>
 
-Note: edit the file-to-scan on request or press q to exit the antivirus program
+### Note: edit the file-to-scan on request or press q to exit the antivirus program
