@@ -7,9 +7,13 @@ Uno **script Python semplice** per scansionare file alla ricerca di virus basati
 ## 🚀 Caratteristiche
 
 ✔️ Interfaccia a riga di comando
+
 ✔️ Calcula hash SHA‑256 dei file da analizzare
+
 ✔️ Controlla la presenza di firme virali (signature) nel database
+
 ✔️ Mostra il tipo di file prima della scansione
+
 ✔️ Permette aggiornare le definizioni (placeholder via URL o file locale)
 
 ---
